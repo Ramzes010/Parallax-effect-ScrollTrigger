@@ -60,10 +60,12 @@ body{
     width: min-content;
     bottom: 12vh;
     line-height: .9;
+
 }
 
 .main-title span{
     font-size: calc(var(--index) * 4);
+    color: red;
 }
 
 .gallery{
